@@ -9,13 +9,30 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~50.0.14",
+    "@react-native-community/blur": "^4.4.0",
+    "@react-navigation/native-stack": "^6.9.26",
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "expo": "^50.0.17",
     "expo-status-bar": "~1.11.1",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysqli": "^3.1.4",
+    "nodemon": "^3.1.0",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-elements": "^3.4.3",
+    "react-native-paper": "^5.12.3",
+    "react-native-tooltip-menu": "^3.0.7",
+    "react-native-walkthrough-tooltip": "^1.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
